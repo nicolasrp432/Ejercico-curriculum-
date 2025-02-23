@@ -1,7 +1,7 @@
 OBJETIVO
 ========
 
-Dado un archivo HTML de ejemplo, modificar su contenido para adaptarlo. Trabajo individual.
+Dado un archivo HTML de ejemplo, modificar su contenido para adaptarlo.
 
 DESCRIPCIÓN
 ===========
