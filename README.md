@@ -35,7 +35,7 @@ REQUISITOS PREVIOS
 RECURSOS NECESARIOS
 =====================
 
-- Ficha: [Cómo clonar un repositorio de gitlab](https://gitlab.com/penascal-f5/00-00/penascal-f5-wiki/-/wikis/ficha/clonar-un-repositorio-de-gitlab)
+- Clonar repositorios github
 
 - Extensión Live Server para VSCode:
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
