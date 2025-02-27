@@ -41,6 +41,11 @@ body {
   color: #999;
 }
 
+.tel {
+  font-family: sans-serif;
+  font-size: 40px;
+}
+
 header {
   display: grid;
   grid-template-columns: 1fr auto;
@@ -96,7 +101,7 @@ h2{
   margin-block-end: 10px;
 }
 
-span{
+.custom {
   color: #999;
   font-style: italic;
   font-size: 0.8em;
