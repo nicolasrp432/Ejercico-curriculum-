@@ -55,13 +55,20 @@ header {
 header #pic {
   width: 200px;
   height: 250px;
-  border: 1px solid #999;
   padding: 1rem;
+  position: relative;
 }
 
 header #pic img {
   max-width: 100%;
   height: auto;
+}
+
+.imagen {
+  width: 100%;
+  max-width: 800px;
+  position: absolute;
+  top: -64px;
 }
 
 dl {
@@ -102,6 +109,10 @@ ul {
   padding-left: 15px;
 }
 
+.portafolio {
+  color: #999;
+}
+
 dd + h2 {
   margin-top: 0;
   padding-left: 2px;
@@ -135,5 +146,9 @@ dd {
     border-right: none;
     text-align: left;
     padding-block-end: 2%;
+  }
+
+  .imagen {
+    left: 10px;
   }
 }
